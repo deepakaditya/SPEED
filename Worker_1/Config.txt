@@ -1,0 +1,16 @@
+Details about the Code is written here 
+
+Things to be done 
+
+1) Complete the HK code
+2) Check the writing into flash
+
+
+
+
+Config file Details
+
+32 Kb allocated for main code ( 15 Kb as of now ) 0x0000 to 0x8000
+
+Address                  Data 
+0x8000                   Set_HV_Value;
